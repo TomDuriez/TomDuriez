@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomDuriez
 - 👀 I’m interested in blockchain, web3.0, development
-- 🌱 I’m currently learning solidity, REACT
+- 🌱 I’m currently learning solidity, REACT, Pyhton, Ethical hacking
 - 📫 How to reach me ...
 
 <!---
